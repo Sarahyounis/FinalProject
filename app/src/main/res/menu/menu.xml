@@ -4,8 +4,16 @@
 
     <item
         android:id="@+id/settings"
-        android:title="Settings" />
+        android:title="Settings"
+        android:icon="@drawable/trash1"
+        android:showAsAction="always|withText"/>
     <item
         android:id="@+id/Email"
         android:title="Send E-mail" />
+    <item
+        android:id="@+id/camera"
+        android:title="camera" />
+    <item
+        android:id="@+id/help"
+        android:title="Help" />
 </menu>

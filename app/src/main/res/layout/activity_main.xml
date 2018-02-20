@@ -28,7 +28,7 @@
         android:layout_width="260dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Username"
+        android:text="E-mail"
         android:textColor="#3BB9FF"
         android:textSize="20dp"
 
@@ -40,8 +40,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="Name" />
+        android:hint="please enter a valid E-mail"
+        android:inputType="textPersonName" />
 
     <Space
         android:layout_width="match_parent"
